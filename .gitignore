@@ -8,3 +8,4 @@ Migrations/
 *.db
 client/node_modules/
 client/app/bower_components/
+.vs/DNWS/v16/Browse.VC.opendb

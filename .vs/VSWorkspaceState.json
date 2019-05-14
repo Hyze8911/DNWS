@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\client\\app",
+    "\\client\\app\\home",
+    "\\client\\app\\login",
+    "\\client\\app\\tweet",
+    "\\client\\e2e-tests"
+  ],
+  "SelectedNode": "\\TwitterAPI.md",
+  "PreviewInSolutionExplorer": false
+}
